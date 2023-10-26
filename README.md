@@ -19,10 +19,10 @@ This portfolio is a showcase of my current skills and projects, but it's also a 
 
 Here's a list of my skills and areas of expertise:
 
-- ###Functional : BitBucket, git, gitHub
-- ###Technical : JavaScript , Java ,  OOPs Concepts
-- ###Frontend Technologies : React.js , Html, CSS, Bootstrap , Wordpress , Figma
-- ###Database : MongoDB, SQL
+- **Functional** : BitBucket, git, gitHub
+- **Technical** : JavaScript , Java ,  OOPs Concepts
+- **Frontend Technologies** : React.js , Html, CSS, Bootstrap , Wordpress , Figma
+- **Database** : MongoDB, SQL
 
 
 ## Contact
